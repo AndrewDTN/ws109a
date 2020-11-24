@@ -7,3 +7,8 @@ https://peterhpchen.github.io/2020/03/08/goroutine-and-channel.html //goroutine
 http.NewRequst(method,url string,body io.Reader)
 ioutil.ReadAll(r io.Reader) ([]byte,error) https://golang.org/pkg/io/ioutil/#ReadAll
 ````
+---
+##成果
+```
+![](1.png)
+```
