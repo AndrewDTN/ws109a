@@ -8,7 +8,7 @@ http.NewRequst(method,url string,body io.Reader)
 ioutil.ReadAll(r io.Reader) ([]byte,error) https://golang.org/pkg/io/ioutil/#ReadAll
 ````
 ---
-##成果
+## 成果
 ```
-![image](1.png)
+![](/1.png)
 ```
