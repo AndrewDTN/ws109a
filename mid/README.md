@@ -10,5 +10,5 @@ ioutil.ReadAll(r io.Reader) ([]byte,error) https://golang.org/pkg/io/ioutil/#Rea
 ---
 ##成果
 ```
-![](/1.png)
+![image](1.png)
 ```
